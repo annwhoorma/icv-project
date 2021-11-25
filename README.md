@@ -1,4 +1,4 @@
-# icv-project
+# Introduction to Computer Vision. Project
 The final project for Intro to Computer Vision, Innopolis University
 
 The idea is described in the final report, but long story short: this project is aimed at providing a feedback on how accurate one performs a physical exercise. The experiments include images and videos. For each experiment, you get an accuracy score (0-100%) and human keypoints. The examples below are taken from the report _ICV_Final_Report.pdf_.
